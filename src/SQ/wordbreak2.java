@@ -75,7 +75,7 @@ public class wordbreak2
         dict.add("and");
 
 
-        System.out.println(my.wordBreak2(s,dict).get(0)+"&&"+my.wordBreak2(s,dict).get(1));
+      /*  System.out.println(my.wordBreak2(s,dict).get(0)+"&&"+my.wordBreak2(s,dict).get(1));*/
 
 
     }
