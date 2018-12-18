@@ -1,4 +1,4 @@
-import java.util.HashMap;
+package SQ;
 
 public class Solution
 {
